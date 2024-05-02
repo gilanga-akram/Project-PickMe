@@ -34,5 +34,9 @@ WebUI.setEncryptedText(new TestObject().addProperty('xpath', ConditionType.EQUAL
 
 WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//button[@type=\'submit\']'))
 
+WebUI.delay(5)
+
+WebUI.takeFullPageScreenshot()
+
 WebUI.closeBrowser()
 

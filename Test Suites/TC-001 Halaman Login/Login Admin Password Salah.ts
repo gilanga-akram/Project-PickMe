@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login Admin Username Salah</name>
+   <name>Login Admin Password Salah</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>1e107a18-71b7-4261-a65a-f65759378eca</testSuiteGuid>
+   <testSuiteGuid>9adaa03f-5b67-4039-a3aa-64846df96e64</testSuiteGuid>
    <testCaseLink>
-      <guid>050d8c3d-5f25-4254-890f-c8bb2aa21cdb</guid>
+      <guid>dc867e21-ee31-4a72-a3b6-409e8457400d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-001 Login/Login Admin Username Salah</testCaseId>
+      <testCaseId>Test Cases/TC-001 Halaman Login/Login Admin Password Salah</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

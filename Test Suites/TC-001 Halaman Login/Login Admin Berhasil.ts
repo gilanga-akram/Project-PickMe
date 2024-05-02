@@ -15,7 +15,7 @@
       <guid>b1b6434f-bd68-43ec-919a-cc500342b59b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-001 Login/Login Admin Berhasil</testCaseId>
+      <testCaseId>Test Cases/TC-001 Halaman Login/Login Admin Berhasil</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
