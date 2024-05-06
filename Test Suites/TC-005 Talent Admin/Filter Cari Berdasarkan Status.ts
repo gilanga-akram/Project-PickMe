@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login Admin Berhasil</name>
+   <name>Filter Cari Berdasarkan Status</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d75e34fe-7020-4164-b733-884d222a5245</testSuiteGuid>
+   <testSuiteGuid>ef2871d4-20a2-4208-b985-869220254443</testSuiteGuid>
    <testCaseLink>
-      <guid>b1b6434f-bd68-43ec-919a-cc500342b59b</guid>
+      <guid>ccd0a5f2-c86f-4fa9-a5e5-69a3e852680f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-002 Halaman Login Admin/Login Admin Berhasil</testCaseId>
+      <testCaseId>Test Cases/TC-005 Talent Admin/Filter Cari Berdasarkan Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

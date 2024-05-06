@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login Admin Berhasil</name>
+   <name>Tombol Beranda</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d75e34fe-7020-4164-b733-884d222a5245</testSuiteGuid>
+   <testSuiteGuid>b9395d7a-e6f6-489e-bfb7-08aab15f4a33</testSuiteGuid>
    <testCaseLink>
-      <guid>b1b6434f-bd68-43ec-919a-cc500342b59b</guid>
+      <guid>e33fe831-0370-45ca-bc23-8ed6dedae27b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-002 Halaman Login Admin/Login Admin Berhasil</testCaseId>
+      <testCaseId>Test Cases/TC-005 Talent Admin/Tombol Beranda</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

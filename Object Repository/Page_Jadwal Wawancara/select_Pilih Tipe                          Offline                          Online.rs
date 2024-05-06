@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih Tipe                          Offline                          Online</name>
+   <tag></tag>
+   <elementGuidId>cce83015-b04d-4731-a6b6-ba3244f5dbae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='online']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#online</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c1c601da-54ae-4418-86bd-58f80a4688b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>16aa63cb-3e1d-4eba-991e-297bab49dac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>online</value>
+      <webElementGuid>7443789e-0c0e-4b86-b414-f794306027b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>online</value>
+      <webElementGuid>ba39767a-05dc-4326-9de6-bf67292c7861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                          Pilih Tipe
+                          Offline
+                          Online
+                        </value>
+      <webElementGuid>3285eb2a-b512-45e5-b383-759f773dfdfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;online&quot;)</value>
+      <webElementGuid>b3bf0b6b-94e2-4ec0-9bba-4072ad3a95fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='online']</value>
+      <webElementGuid>d9050b4f-44ff-42bf-b07e-c189b1f9cd87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Wawancara'])[4]/following::select[1]</value>
+      <webElementGuid>e4cc1bfb-11ef-430b-a89f-1289d7630f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::select[2]</value>
+      <webElementGuid>0adbb584-8bf2-4a5f-a3fd-907d01fc62ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perekrut'])[1]/preceding::select[2]</value>
+      <webElementGuid>cd65a53f-83f2-4570-af24-5da142fcf1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b8f387ba-a34d-4b49-ab0e-fd2f1c2b41a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'online' and @name = 'online' and (text() = '
+                          Pilih Tipe
+                          Offline
+                          Online
+                        ' or . = '
+                          Pilih Tipe
+                          Offline
+                          Online
+                        ')]</value>
+      <webElementGuid>12127034-f64e-4754-b48e-a33407647a38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

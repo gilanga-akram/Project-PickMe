@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login Admin Berhasil</name>
+   <name>Info Talent</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d75e34fe-7020-4164-b733-884d222a5245</testSuiteGuid>
+   <testSuiteGuid>cb159394-bef8-4893-a345-6ad96dcf41c0</testSuiteGuid>
    <testCaseLink>
-      <guid>b1b6434f-bd68-43ec-919a-cc500342b59b</guid>
+      <guid>85942a77-82a2-4b9d-8f31-486a333a3685</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-002 Halaman Login Admin/Login Admin Berhasil</testCaseId>
+      <testCaseId>Test Cases/TC-005 Talent Admin/Info Talent</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -15,7 +15,7 @@
       <guid>dc867e21-ee31-4a72-a3b6-409e8457400d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-001 Halaman Login/Login Admin Password Salah</testCaseId>
+      <testCaseId>Test Cases/TC-002 Halaman Login Admin/Login Admin Password Salah</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
