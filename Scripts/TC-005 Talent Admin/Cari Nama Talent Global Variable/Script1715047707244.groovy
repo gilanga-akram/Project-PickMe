@@ -18,17 +18,17 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.testobject.ConditionType as ConditionType
 
-WebUI.openBrowser('https://admin-pickme.metrodataacademy.id/Login')
+WebUI.openBrowser(GlobalVariable.URL_Admin)
 
 WebUI.maximizeWindow()
 
 WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//input[@id=\'username\']'))
 
-WebUI.setText(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//input[@id=\'username\']'), 'superadmin')
+WebUI.setText(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//input[@id=\'username\']'), GlobalVariable.FullName_admin)
 
 WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//input[@id=\'password\']'))
 
-WebUI.setEncryptedText(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//input[@id=\'password\']'), 'o+tS4OuGt32s9ezZj287yw==')
+WebUI.setText(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//input[@id=\'password\']'), GlobalVariable.Password_admin)
 
 WebUI.click(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//button[@type=\'submit\']'))
 
@@ -41,3 +41,4 @@ WebUI.setText(new TestObject().addProperty('xpath', ConditionType.EQUALS, '//inp
 WebUI.delay(5)
 
 WebUI.takeFullPageScreenshot()
+

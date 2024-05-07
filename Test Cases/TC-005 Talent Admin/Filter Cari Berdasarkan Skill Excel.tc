@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Filter Cari Berdasarkan Skill Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>344fcf02-0483-4537-8134-f44c3e16d022</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59a7a874-1f57-43e6-a07e-4fb9bf05639e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c453c8dd-5cf8-4415-b070-c1eccbc90e28</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a7f1593-c9c6-4256-a211-f0e367e58e78</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59a7a874-1f57-43e6-a07e-4fb9bf05639e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c453c8dd-5cf8-4415-b070-c1eccbc90e28</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a7f1593-c9c6-4256-a211-f0e367e58e78</id>
+      <masked>false</masked>
+      <name>URL_Admin</name>
+   </variable>
+</TestCaseEntity>
